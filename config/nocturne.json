@@ -1,0 +1,39 @@
+{
+  "name": "Nocturne OS",
+  "version": "0.1.0",
+  "android_version": "15",
+  "device": {
+    "manufacturer": "OnePlus",
+    "model": "CPH2493",
+    "codename": "vitamin"
+  },
+  "display": {
+    "target_refresh_rate": 120,
+    "adaptive_refresh_rate": true
+  },
+  "theme": {
+    "deep_amethyst": "#1A0B2E",
+    "eclipse_black": "#0A0A0A",
+    "neon_violet": "#B026FF"
+  },
+  "performance": {
+    "default_mode": "balanced",
+    "modes": [
+      "silent",
+      "balanced",
+      "performance"
+    ],
+    "thermal_protection": true
+  },
+  "setup": {
+    "internet_required": false
+  },
+  "alert_slider": {
+    "enabled": true,
+    "profiles": {
+      "top": "performance",
+      "middle": "balanced",
+      "bottom": "silent"
+    }
+  }
+}
