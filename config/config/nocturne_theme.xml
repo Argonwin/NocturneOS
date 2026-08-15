@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nocturne OS Core Colors -->
+
+    <color name="nocturne_deep_amethyst">#1A0B2E</color>
+    <color name="nocturne_eclipse_black">#0A0A0A</color>
+    <color name="nocturne_neon_violet">#B026FF</color>
+
+    <color name="nocturne_surface">#151020</color>
+    <color name="nocturne_surface_variant">#21172F</color>
+
+    <color name="nocturne_text_primary">#F5F3FF</color>
+    <color name="nocturne_text_secondary">#B9B2C9</color>
+    <color name="nocturne_text_disabled">#6E6878</color>
+
+    <color name="nocturne_success">#8BE28B</color>
+    <color name="nocturne_warning">#FFD166</color>
+    <color name="nocturne_error">#FF5577</color>
+
+    <!-- System UI -->
+
+    <color name="nocturne_status_bar">#0A0A0A</color>
+    <color name="nocturne_navigation_bar">#0A0A0A</color>
+
+    <color name="nocturne_quick_settings">#151020</color>
+    <color name="nocturne_quick_settings_active">#B026FF</color>
+
+    <!-- Performance -->
+
+    <color name="nocturne_performance">#FF5577</color>
+    <color name="nocturne_balanced">#B026FF</color>
+    <color name="nocturne_silent">#8B7FA8</color>
+
+</resources>
